@@ -2643,6 +2643,12 @@ footer {
 .navbar-brand>img {
   margin-bottom: 20px;
 }
+
+.list-inline a {
+  color: #fff !important;
+  font-size: 20px;
+  padding: 10px;
+}
 /************************************/
 /* 18 - FOOTER END */
 /************************************/
