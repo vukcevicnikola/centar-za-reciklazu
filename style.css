@@ -65,11 +65,11 @@
 /* theme colors */
 .c1 {color: #6abe52 !important;}
 .c2 {color: #118442 !important;}
-.c3 {color: #e2e659 !important;}
-.c4 {color: #111c16 !important;}
-.bg1 {background: #6abe52 !important;}
-.bg2 {background: #118442 !important;}
-.bg3 {background: #e2e659 !important;}
+.c3 {color: #fff !important;}
+.c4 {color: #18743c !important;}
+.bg1 {background: #18743c !important;}
+.bg2 {background: #18743c !important;}
+.bg3 {background: #18743c !important;}
 
 /* theme fonts */
 .f1 {font-family: 'Titillium Web', sans-serif;}
@@ -542,7 +542,7 @@
 
 .main-slider.ms1 .banner-carousel {
   height: 796px;
-  background: url(img/bg/01.pnga) no-repeat center center;
+  background: url(img/reciklaza-jedan.jpg) no-repeat center center;
   -webkit-background-size: cover;
   background-size: cover;
 }
@@ -553,15 +553,15 @@
 
 .main-slider.ms2,
 .main-slider.ms2 .ms2-item {
-  height: 767px;
+  height: 700px;
 }
 
 [data-item="1"] {
-  background: url(img/bg/01.png) no-repeat bottom center;
+  background: url(img/reciklaza-jedan.jpg) no-repeat bottom center;
 }
 
 [data-item="2"] {
-  background: url(img/bg/02.png) no-repeat bottom center;
+  background: url(img/reciklaza-jedan.jpg) no-repeat bottom center;
 }
 
 [data-item="3"] {
@@ -914,7 +914,7 @@
 .intro2 .items-area .item .rdm .fa {
   font-size: 18px;
   line-height: 44px;
-  color: #6abe52;
+  color: #118442;
 }
 
 .intro2 .items-area .item .rdm {
@@ -1629,9 +1629,9 @@
 .event {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: url(img/bg/10.jpg);
+  background: url(img/briga-reciklaza.jpg);
   -webkit-background-size: cover;
-  background-size: cover;
+  background-size: cover no-repeat;
   position: relative;
   z-index: 1;
 }
