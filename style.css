@@ -393,11 +393,13 @@
   }
   
   .mainMenu > li {
-    margin-left: 16px;
+    margin-left: 26px;
+    margin-top: 20px;
   }
 
   .mainMenu > li > a {
-    font-size: 16px;
+    font-size: 20px;
+    margin: 15px;
   }
 }
 
