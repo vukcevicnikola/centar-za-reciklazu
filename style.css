@@ -130,6 +130,7 @@
 
 .thm-btn:only-of-type {
   margin-right: 0;
+  color: #fff;
 }
 
 /* preloader */
@@ -1986,7 +1987,7 @@
 }
 
 .volunteer-banner {
-  background: url(img/volunteer/04.jpg) no-repeat center center;
+  background: url(img/04.jpg) no-repeat center center;
   -webkit-background-size: cover;
   background-size: cover;
   border-radius: 3px;
