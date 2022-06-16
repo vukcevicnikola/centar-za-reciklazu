@@ -302,7 +302,7 @@
     overflow: scroll !important;
     max-height: 100vh !important;
     padding-bottom: 80px;
-    background: #fff;
+    background-color: #fff;
   }
 
   #main-menu::-webkit-scrollbar-track {
