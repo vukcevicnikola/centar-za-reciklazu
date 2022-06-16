@@ -382,6 +382,11 @@
   .nav-solid form input {
     width: 200px;
   }
+
+  .mainMenu {
+    background: #fff;
+  }
+
   .mainMenu > li {
     margin-left: 20px;
   }
