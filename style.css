@@ -2668,6 +2668,11 @@ footer {
 .bg1 {
   background: #18743c;
 }
+
+.navbar-brand img {
+  height: 100px;
+  margin-top: -40px;
+}
 /************************************/
 /* 18 - FOOTER END */
 /************************************/
